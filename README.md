@@ -38,5 +38,16 @@ keeps him interactive
 
 
 
+![Screenshot 2024-07-20 223510](https://github.com/user-attachments/assets/7c50cddb-2a24-4f7a-bda3-f8b9d781cee0)
+
+
+
+
+![Screenshot 2024-07-20 223454](https://github.com/user-attachments/assets/dd8b7ddb-b9a6-4a58-b323-af3d8ab9b304)
+
+
+
+
+
 
 
