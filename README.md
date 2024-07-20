@@ -34,6 +34,9 @@ banner will pop up. He is redirected into a honeypot and successfully gets trick
 banner. The attacker believes to have succeeded but the honeypot outsmarts his actions and
 keeps him interactive
 
+![Screenshot 2024-07-20 223552](https://github.com/user-attachments/assets/3aa51aff-cb9d-4cb3-b265-1f5401c0557b)
+
+
 
 
 
